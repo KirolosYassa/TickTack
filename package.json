@@ -1,0 +1,30 @@
+{
+  "name": "web-engineering-project-e-commerce",
+  "version": "1.0.0",
+  "description": "e-commerce website for mobiles",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Web Project",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.0.10",
+    "body-parser": "^1.19.1",
+    "car-query": "^1.0.12",
+    "dom": "^0.0.3",
+    "DOM": "npm:dom@^0.0.3",
+    "express": "^4.17.2",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "fs-cdn": "^0.1.0",
+    "https": "^1.0.0",
+    "json": "^11.0.0",
+    "node-fetch": "^3.1.0",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "require": "^2.4.20"
+  }
+}

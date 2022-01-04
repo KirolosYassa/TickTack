@@ -1,0 +1,23 @@
+[{“product_name”:”Samsung Galaxy S10”,”image”:” 1.jpeg”,”price”:”3000”,”description”:”3 colours black,blue and white it has a 20mp cam,128GB/512GB storage, supports 5G,”},
+  
+{“product_name”:”Samsung Galaxy J4”,”image”:” 2.jpeg”,”price”:”2500”,”description”:”3 colours gray,blue and white it has a 13mp ,128GB/512GB storage, supports 5G”},
+
+{“product_name”:”apple iphone 13”,”image”:”3.jpeg”,”price”:”15000”,”description”:”4 colours black,red,grey and white it has a 15mp cam ,128GB/512GB storage, supports 5G”},
+
+{“product_name”:”apple iphone 13 pro”,”image”:”4.jpeg ”,”price”:”20000”,”description”:”4 colours black,gold,grey and white it has a 15mp cam ,128GB/512GB storage, supports 5G”},
+
+{“product_name”:”apple iphone X”,”image”:” 5.jpeg”,”price”:”12000”,”description”:”3 colours black,grey and white it has a 13mp cam ,128GB/512GB storage, supports 4G”},
+
+{“product_name”:”Huawei Nova 7i”,”image”:”6.jpeg”,”price”:”9000”,”description”:”2 colours  red and green it has a 16mp cam ,128GB storage, supports 5G”},
+
+{“product_name”:”Huawei Y9 Prime”,”image”:”7.jpeg”,”price”:”4500”,”description”:”2 colour blue and black  it has a 12mp cam ,128GB storage, supports 4G”},
+
+{“product_name”:”Lenovo K12 Note”,”image”:”8.jpeg”price”:”2750”,”description”:”3 colours  black,blue and white it has a 14mp cam ,32GB/64GB/128 storage, supports 5G”},
+
+{“product_name”:”lenovo Z6 Pro”,”image”:”9.jpeg”:”2 colours red and black it has a 15mp cam ,64GB/128GB/512GB storage, supports 5G”},
+
+{“product_name”:”Samsung Galaxy a71”,”image”:”10.jpeg”,”colours black,blue and white it has a 16mp cam ,64GB/128GB/512GB storage, supports 4G”},
+
+{“product_name”:”Samsung Galaxy S21”,”image”:”11.jpeg”,”price”:”5500”,”description”:”2 colours black and white it has a 14mp cam ,128GB/512GB storage, supports 5G”},
+
+{“product_name”:”Samsung Galaxy A11”,”image”:”12.jpeg”,”price”:”4500”,”description”:”phone is blue and white it has a 15mp cam ,64GB/128GB/512GB storage, supports 5G”}]
